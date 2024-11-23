@@ -88,7 +88,8 @@ const data = [
     {
         code: "Kholinar",
         sanctions: [
-            "Acoso"],
+            "Acoso",
+            "Difamasión"],
         description: "Le desconocemos, no sabemos quien es realmente, pero sabemos que cuando veía a X usuario comenzaba a llamarla indiscriminadamente y colgar, hicimos el test de en un canal publico y otro no visible para todos, se confirmó que era él.",
         statBroma:"Por esta tipo, no me gusta que se den números de celular o grupos de wpp, este es de lejos el mas peligroso de los baneados.",
         status: "Desconocido",
@@ -108,18 +109,36 @@ const data = [
     {
         code: "El Tristes",
         sanctions: [
-            "Indico que tenia problemas con su ex desde hace varios años, especificamente que manda un mensaje al dia cada manaña y ella debe tenerle bloqueado",
-            "Entrar al servidor, luego de irse voluntariamente solo para decir `Ojala te suicides` a un usuario del servidor"],
-        description: "Humano, posiblemente, amigable. Esta persona participo dentro de la moderacion, en concreto de los helpers lugar que siempre ha tenido lugar para sugerir y acompañar proyecto",
-        status: "Activo",
-        serverErrors: "Insistir en lo que significa ser responsable para otros, no llevar el problema con claridad"
+            "Hablar de la relacion toxica que tiene con su ex y novia, esto no es un sancion pero intervenimos para saber que estaba sucediendo",
+            "Desear el suicidio de usuarios del servidor"],
+        description: "Es una persona, eso es evidente, ahora en rasgos tiene carisma y es amigable parece una persona muy simpática y divertida, pero tiene al menos una relación toxica con su ex, esta información es de 2023 aportada por El Cambia cuerpos y confirmadas por el mismo usuario. Su relación con la ex consiste en que ella lo debe tener bloqueado, le manda al menos mensaje cada día diciéndole buenos días, se a memorizado su número de teléfono, dirección y demás. En una ocasión se desato todo este enredo, hablamos con él y también resulta que tiene acordado tener una relación tocia con su pareja de ese momento. Como amigos, nos preocupamos por el y le pedimos que acuda a terapia o comenzar a tomar hábitos que le alejen del recuerdo de su ex, afirmo ser demasiado inteligente para que esos trucos funcionaran. Luego, volvió a entrar al servidor para desear que se suicide a un usuario del servidor como “bromita”.",
+        statBroma:"Me hubiera gustado que no fuera una persona tan particular, era agradable hasta que le conocí más.",
+        status: "En otras tierras",
+        serverErrors: "No determinado",
+        razonExpulsion: "Tengo entendido que no se le baneo, tuvo una conversaciones que da lastima a grandes rasgos y se fue solo",
     },
     {
-        code: "La multi cuentas",
+        code: "El Cambia Formas",
         sanctions: [
-            "Multicuentas, y hablar en su multicuentas acaparando la charla en el canal general o donde pintara"],
-        description: "Humano, posiblemente, amigable. Esta persona participo dentro de la moderacion, en concreto de los helpers lugar que siempre ha tenido lugar para sugerir y acompañar proyecto",
-        status: "Desconocido",
-        serverErrors: "Parece haber recapacitado"
+            "No cumplir en tiempo y forma con las charlas habladas, hablamos de que se le pregunto con mucho tiempo como queria la charla. Si publica o privada, publo o no publicidad etc (esto no es una sacion real pero justifica porque se le bajo de la moderacion)",
+            "Durante el proyecto conjunto de servidores, se le indico que llevara y trayera info con los organizadores. A efectos practicos termino organizando lo minimo y dejando el proyecto en manos del resto miembros por los estudios, sin organizador se cayo todo. (esto no es una sacion real pero justifica porque se le bajo de la moderacion)",
+            "Decir en bromita a alguien en crisis de ansiedad que se suicide"
+        ],
+        description: "Es una persona divertida, no sé qué más podría rodear sobre este. Es la principal persona de que El Tristes tuviera una intervención, cuando se le pregunto dijo que ante sus ojos el tipo podía matar a la ex y a sí mismo. Estuvo en la moderación baja del servidor durante un tiempo, ante una falta de claridad y compromiso le removió del puesto, una cosa es que tus estudios sean prioridad, otra es patear por dos semanas el estado de lo que estas haciendo.",
+        statBroma:"No tengo un problema real con él, pero no le dejaría cerca de mis cosas.",
+        status: "En otras tierras",
+        serverErrors: "Falta de claridad ante lo que pasa tanto con él como con la victima.",
+        razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+    },
+    {
+        code: "El Buitre",
+        sanctions: [
+            "Hablar de la relacion toxica que tiene con su ex y novia, esto no es un sancion pero intervenimos para saber que estaba sucediendo",
+            "Desear el suicidio de usuarios del servidor"],
+        description: "Es una persona divertida, no sé qué más podría rodear sobre este. Es la principal persona de que El Tristes tuviera una intervención, cuando se le pregunto dijo que ante sus ojos el tipo podía matar a la ex y a sí mismo. Estuvo en la moderación baja del servidor durante un tiempo, ante una falta de claridad y compromiso le removió del puesto, una cosa es que tus estudios sean prioridad, otra es patear por dos semanas el estado de lo que estas haciendo.",
+        statBroma:"No tengo un problema real con él, pero no le dejaría cerca de mis cosas.",
+        status: "En otras tierras",
+        serverErrors: "Falta de claridad ante lo que pasa tanto con él como con la victima.",
+        razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
     },
 ];
