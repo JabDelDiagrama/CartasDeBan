@@ -14,7 +14,10 @@ const data = [
     },
     {
         code: "El de la Ex",
-        sanctions: ["Insulto a un miembro querido, directamente se fue a lo basto indicando que era puta, una basura y demas"],
+        sanctions: [
+            "Insulto a un miembro querido, directamente se fue a lo basto indicando que era puta, una basura y demas",
+            "Gaslighting, a un moderador",
+            "Se sabe que tiene una denuncia judicial, o la tenia realmente"],
         description: "Esta persona, se conoce que era un tipo Europeo, se desconoce grandes descripciones de el pues era bastante poco frecuente, comenzó a pasarse por discord luego de terminar con la Ex, existe el recuerdo no confirmado que paso algo con su auto, también parece que el tenia un comportamiento abusivo con ella o al menos ambos miembros de la pareja no eran sanos.",
         statBroma:"Este literalmente la dejo de poner.",
         status: "Desaparecido",
@@ -133,12 +136,54 @@ const data = [
     {
         code: "El Buitre",
         sanctions: [
-            "Hablar de la relacion toxica que tiene con su ex y novia, esto no es un sancion pero intervenimos para saber que estaba sucediendo",
-            "Desear el suicidio de usuarios del servidor"],
-        description: "Es una persona divertida, no sé qué más podría rodear sobre este. Es la principal persona de que El Tristes tuviera una intervención, cuando se le pregunto dijo que ante sus ojos el tipo podía matar a la ex y a sí mismo. Estuvo en la moderación baja del servidor durante un tiempo, ante una falta de claridad y compromiso le removió del puesto, una cosa es que tus estudios sean prioridad, otra es patear por dos semanas el estado de lo que estas haciendo.",
-        statBroma:"No tengo un problema real con él, pero no le dejaría cerca de mis cosas.",
+            "Romper la regla de 'Jugar en los canales de voz general' (La verdad es que es pelotudez)"],
+        description: "A grandes rasgos también es un humano, sabe de cocina y tiene una vida ocupada con el laburo a nivel de amistad el pibe chill parece buena onda y relativamente comprometido, pero cuando se interesa por una mina parece que va a full en algún punto se interesó por una miembro de la moderación, la cosa no salio y le agarro rencor, este mismo odio persiste hasta el día de hoy según comportamientos. Luego de estar ausente mas o menos tiempo, incumplido la norma de “No jugar en canales de voz” que eventualmente a mutado en “Si se van a poner a jugar y coordinar hablando por voz tapando una conversación que ya existe deben moverse a un canal de juegos” la sanción que dio la moderadora fueron varias horas por un primer strike, la moderadora era el mismo interés amoroso fracasado. En cuanto el resto de la administración se enteró de la situación se redujo la penalización a una hora o menos que a efectos prácticos era una anulación total de la penalización y se hizo que la moderadora pidiera disculpas.",
+        statBroma:"La novia “La Bruja” también estuvo en este suceso, tuvo las mismas penalizaciones y disculpas que me hicieron estar durante dos horas o así, la puta que los pario. (Termino mal igual)",
         status: "En otras tierras",
-        serverErrors: "Falta de claridad ante lo que pasa tanto con él como con la victima.",
+        serverErrors: "Moderación novata o con estandares no coordinados por penalizaciones.",
         razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+    },
+    {
+        code: "La bruja (No es ataque, el apodo es similar)",
+        sanctions: [
+            "Comportamiento poco amable x3 'No agredir de manera directa o indirecta fuera del contexto de una broma.'"],
+        description: "La persona era bastante buena tirando comentarios pasivo agresivos, esto se destaca al principio del ingreso en el servidor, luego se hablando un poco y retomo la actitud para con los miembros de la moderación tras la sanción el administrador y jab hablaron con esta persona en varios encuentros de forma privada para ver que pasaba y si bajaba los comentarios, pues ya en parte contaban con la aprobación de que la penalización que tenían era parcialmente injusta puesto que el tiempo de la misma era excesivo.",
+        statBroma:"Uno de los argumentos mas fuertes que aportan en su defensa la moderadora ni siquiera les saludo, antes de darles la advertencia y sanción, la respuesta a esto y es lo mas probable es que en las llamadas de voz de discord el protocolo de comunicación tiene instantes mas o menos largos donde lo que dice el usuario no es enviado, esto se puede comprobar teniendo sonidos de ingreso, ocasionalmente si el internet no es bueno o tiene bost lag se tarda en escuchar el sonido de inicio. Esto no es una defensa para el tiempo, falta de cordialidad o lo que sea pero papá tenias a favor a la moderación entera con lo que paso, seguir insistiendo con comentarios jocosamente sarcásticos te gano que se empezara a dudar.",
+        status: "En otras tierras",
+        serverErrors: "Moderación novata o con estandares no coordinados por penalizaciones.",
+        razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+    },
+    {
+        code: "El Valorant",
+        sanctions: [
+            "Primer dia e insultar a otro usuario de discord en llamada de voz"],
+        description: "No se, lo trago el usuario llamado Fuego",
+        statBroma:"Parece que de normal tenia mal perfil desde twitter",
+        status: "Desconocido",
+        serverErrors: "No hubo",
+        razonExpulsion: "Mantener una actitud cordial y respetuosa.",
+    },
+    {
+        code: "Fuego",
+        sanctions: [
+            "Acaparar conversación",
+            "No utilizar los canales adecuadamente",
+            "Principal spoileador del servidor, no lo hacia de mal pero esta la queja",
+            "Mal uso o compromiso al tener permisos especiales en el servidor",
+            "Literalmente causo la creacion de la norma para representantes de discord de 'No somos padres de nadie para revisar las cuentas y hacer seguimiento a lo dicen, pelean o postean, pero cuando son cuentas por donde llegan nuevos , eso significa predisponer a los nuevos lectores, integrantes o simplemente a gente de la red social implicada a que digan *este lugar o saga de libros es Machista/Misógina/Extrema de Y o Z*. Las redes sociales son *anónimas* pero no por ello hay que decir barbaridades, y menos cuando confiamos en esas personas para ayudar a los nuevos en su camino de lectura.'"],
+        description: "Como persona puede tener buenas conversaciones en privado, en publico es recordado por tener un padre zoofílico y que cometía crímenes curiosos e inmorales, hablar de plátanos o la rueda del tiempo, fuera de estos tres temas es difícil obtener profundidad de personaje.",
+        statBroma:"En general no entablamos amistad nunca, todos mis intentos fueron un fracaso así que desistí de conocerle.",
+        status: "a su ritmo",
+        serverErrors: "Esperar que comprenda lo signfica, relamente nunca hubo intención de colaborar como amigo pues tuvo muchas instancias de dialogo o espacios privadosp ara sus amigos, venia al servidor a hacer sus charlas fueran de bananas o de la rueda del tiempo, fuera e eso no se cayo 'Hola chicos, como estan? hace dos meses que no me paso'",
+        razonExpulsion: "Se removió del servidor bajo la normal ‘No nos apetece bancarte más’ y es la unica excepcion para que si pueda volver cuando entienda que no nos gusta que siendo una cara del servidor vaya insultando por twiter",
+    },
+    {
+        code: "El Velo Sobre la Realidad",
+        sanctions: ["No hubo reporte alguno",],
+        description: "Buena persona, pero con problemas o inseguridades con el ego, esta persona en concreto llega bastante cerca pues la admire durante mucho tiempo y estaba orgullosa de ella. Le gustaban varias sagas de libros famosas y de alguna forma es entre responsable a la vez que procrastina lo primero visto por mi lo segundo afirmado por ella. Durante su tiempo fuero de la moderación hablábamos y jugábamos, luego ingreso en la administración y colaboramos para crear una wiki visual de el archivo de las tormentas, en esta colaboración ella tenia por hobby escribir datos sobre los libros que le gustaban por lo cual surgió la idea de que transcribiera la info para que yo le diera un retoque visual. Durante el proyecto insisti en pagarle por la chamba, dejarle su @ en las publicaciones, también en más de una ocasión le indique que ella decidió sobre el orden de las infografías, la info que tenían y hasta podía indicar el diseño general, las únicas restricciones eran la cantidad de palabras. Siempre que se me pregunto sobre el proyecto o se me felicito les recordé que ella trabaja con la información y yo solo aplicaba un elemento visual.",
+        statBroma:"Eventualmente, encontró diferencias en todo. Cada baneo, cada falta cometida en el servidor eran víctimas de una moderación agresiva y sorda ante ellos. Por ello decidió irse del servidor insultando y obviando que a rasgos reales tenia poder para pedir la modificación cosas o revisar que pasaba. Este cambio en la actitud paso luego de comenzar a hablar con un grupo de personas que se retiraron (El triste, El buitre, La bruja, El Cambia formas.) posterior mente a su retirada el entablar comunicación con ella implicaba que un mensaje sencillo tenia información criptica u oculta, por eso personalmente decidí que no se podía seguir hablando.",
+        status: "En otras tierras",
+        serverErrors: "No tengo la menor idea que se podria haber hecho, al menos yo si fue claro pero ella no.",
+        razonExpulsion: "Se fue sola",
     },
 ];
