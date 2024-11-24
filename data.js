@@ -189,6 +189,5 @@ const data = [
         status: "En otras tierras",
         serverErrors: "No tengo la menor idea que se podria haber hecho, al menos yo si fue claro pero ella no.",
         razonExpulsion: "Se fue sola",
-        natEvent: true,
     },
 ];
