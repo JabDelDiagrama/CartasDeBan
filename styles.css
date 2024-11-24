@@ -41,6 +41,10 @@ main {
     color: #b3b3b3;
 }
 
+p{
+    color: #b3b3b3;
+}
+
 .card p strong{
     font-size: 1rem;
     color: #e7e7e7;
