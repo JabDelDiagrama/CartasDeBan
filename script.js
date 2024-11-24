@@ -6,7 +6,7 @@ function renderCards(cards) {
     cards.forEach(card => {
         let decoracion = ""
         if(card?.natEvent){
-            decoracion = "<div class='widt100'><img src='./asset/flor.png'></div>"
+            decoracion = "<div class='widt100'><img src='./flor.png'></div>"
         }
         const cardElement = document.createElement("div");
         cardElement.classList.add("card");
