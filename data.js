@@ -100,7 +100,7 @@ const data = [
         razonExpulsion: "Acosar a usuarios del servidor y bajo la normal ‘No nos apetece bancarte más’",
     },
     {
-        code: "Acosar que me interrumpio mientras veia una pelicula",
+        code: "Acosador que me interrumpio mientras veia una pelicula",
         sanctions: [
             "Acoso"],
         description: "El vago venia persiguiendo a una mina desconocida de servidor en servidor exigiendo que la banearan, le pegamos el baneo a él. De la mina no sabemos nada más, esperamos este bien.",
@@ -119,6 +119,7 @@ const data = [
         status: "En otras tierras",
         serverErrors: "No determinado",
         razonExpulsion: "Tengo entendido que no se le baneo, tuvo una conversaciones que da lastima a grandes rasgos y se fue solo",
+        natEvent: true,
     },
     {
         code: "El Cambia Formas",
@@ -132,6 +133,7 @@ const data = [
         status: "En otras tierras",
         serverErrors: "Falta de claridad ante lo que pasa tanto con él como con la victima.",
         razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+        natEvent: true,
     },
     {
         code: "El Buitre",
@@ -142,6 +144,7 @@ const data = [
         status: "En otras tierras",
         serverErrors: "Moderación novata o con estandares no coordinados por penalizaciones.",
         razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+        natEvent: true,
     },
     {
         code: "La bruja (No es ataque, el apodo es similar)",
@@ -152,6 +155,7 @@ const data = [
         status: "En otras tierras",
         serverErrors: "Moderación novata o con estandares no coordinados por penalizaciones.",
         razonExpulsion: "Se fue solo y sin hacer ruido, respetable",
+        natEvent: true,
     },
     {
         code: "El Valorant",
@@ -185,5 +189,6 @@ const data = [
         status: "En otras tierras",
         serverErrors: "No tengo la menor idea que se podria haber hecho, al menos yo si fue claro pero ella no.",
         razonExpulsion: "Se fue sola",
+        natEvent: true,
     },
 ];
